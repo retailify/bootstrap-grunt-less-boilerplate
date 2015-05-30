@@ -1,0 +1,9 @@
+{
+  "name": "Thomas Meitz",
+  "version": "0.1.0",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "~1.11.3"
+  },
+  "private": true
+}
